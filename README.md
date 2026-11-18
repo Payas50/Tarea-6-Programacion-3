@@ -18,6 +18,6 @@ T(n)=O(n)
 
 Además, insertar los \(n\) elementos ordenados desde un árbol vacío requiere:
 
-T_{\text{inserción}}(n)=\sum_{i=1}^{n}O(i)=O(n^2)
+T_inserción(n)={i=1}^{n}O(i)=O(n^2)
 
 Esto demuestra matemáticamente la degradación del BST.
